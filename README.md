@@ -1,2 +1,1 @@
-# testscript.js
-testscripts
+# testscript
